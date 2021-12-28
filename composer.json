@@ -1,5 +1,5 @@
 {
-    "name": "ramtpl/traidinglite",
+    "name": "ramtpl/tradinglite",
     "description": "Trading",
     "type": "library",
     "keywords": ["yii2","extension"],
@@ -16,9 +16,7 @@
             "url": "https://github.com/trigunaitpawan/yii2_tradingApi.git"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "~2.0.0"
-    },
+    "require": {},
     "autoload": {
         "psr-4": {
             "trading\\tradinglite\\": ""
