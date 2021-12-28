@@ -1,13 +1,19 @@
 {
     "name": "ramtpl/traidinglite",
     "description": "Trading",
-    "type": "yii2-extension",
+    "type": "library",
     "keywords": ["yii2","extension"],
     "license": "MIT",
     "authors": [
         {
             "name": "Pavan Kuma Trigunait",
             "email": "trigunaitpawan@gmail.com"
+        }
+    ],
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/trigunaitpawan/yii2_tradingApi.git"
         }
     ],
     "require": {
